@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Perkenalkan nama saya **Iqbal Fariz Novirianto**.  
+
+Saya adalah seorang **Mahasiswa IT** di UIN Jakarta.  
+
+Saat ini saya sedang menekuni bidang **Android Developer**.  
+
 <!--
 **iqbalfariz/iqbalfariz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
