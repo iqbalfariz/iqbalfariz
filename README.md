@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Iqbal Fariz Novirianto**.  
+Hello my name is **Iqbal Fariz Novirianto**.  
 
-Saya adalah seorang **Mahasiswa IT** di UIN Jakarta.  
-
-Saat ini saya sedang menekuni bidang **Android Developer**.  
+I am an Android developer who enjoys working in collaborative teams and continuously strives to gain valuable experience in order to create exceptional Android apps. 
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iqbalfariz&show_icons=true&locale=en&theme=dark" alt="iqbalfariz" /></p>
