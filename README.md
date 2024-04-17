@@ -2,7 +2,7 @@
 
 Hello my name is **Iqbal Fariz Novirianto**.  
 
-I am an Android developer who enjoys working in collaborative teams and continuously strives to gain valuable experience in order to create exceptional Android apps. 
+I am an Software developer who enjoys working in collaborative teams and continuously strives to gain valuable experience in order to create exceptional Apps. 
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=iqbalfariz&show_icons=true&locale=en&theme=dark" alt="iqbalfariz" /></p>
